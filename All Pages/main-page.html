@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals-main-page.css" />
+    <link rel="stylesheet" href="style-main-page.css" />
+  </head>
+  <body>
+    <div class="main-page">
+      <div class="div">
+        <div class="overlap">
+            <div class="mainB">
+            <button class="mainButton" onclick="navigateToPage('main-page.html')">
+            <img src="img/Andrew Logo Small.png" alt="Image Button"></button>
+            </div>
+
+            <div class="eduB">
+            <button class="eduButton" onclick="navigateToPage('education.html')">Education</button>
+            </div>
+    
+            <div class="hIb">
+              <button class="hAndIButton" onclick="navigateToPage('hobbies-and-interests.html')">Hobbies and Interests</button>
+            </div>
+    
+            <div class="cEb">
+              <button class="codingExperience" onclick="navigateToPage('coding-experience.html')">Coding Experience</button>
+            </div>
+
+            <script>
+              function navigateToPage(page) {
+                  window.location.href = page;
+              }
+            </script>
+
+          <p class="text-wrapper">
+            
+           
+          </p>
+          
+        </div>
+        <div class="small-transition-bar"></div>
+        <div class="bio-overview-stuff">
+          
+          <div class="overlap-group"><p class="bioBox" id="bioText">Hi there! I'm Andrew, a 2nd-year student in SoSy at SFU.
+            Some things about me: I have 2 black labradors (dogs), I enjoy reading manga and playing videogames, I
+            like the colour green and also blue, and I like to golf! Check out my hobbies and interests page for more! This website
+            contains info about me, and you can navigate by using the buttons at the top of each page. Click my favicon on the top left to return to the home page!
+
+          </p></div>
+          <div> <button  id="button-to-swap" onclick="swapText()"></button> 
+            <img src="img/button-to-swap-between-texts.svg"></img> 
+          </div>
+        </div>
+        <script>
+          function swapText() {
+              var textBox = document.getElementById('bioBox');
+              // Check the current text and swap it
+              if (textBox.innerText === 'Initial Text') {
+                  textBox.innerText = 'New Text';
+              } else {
+                  textBox.innerText = 'Initial Text';
+              }
+          }
+      </script>
+        <div class="overlap-2">
+          <div class="info-section">
+            <div class="overlap-3">
+              <div class="info-bottom"></div>
+              <div class="info">I have an Instagram account! You can follow me through the link below: </div>
+            </div>
+          </div>
+          <div class="text-wrapper-3"> <a href="https://www.instagram.com/and.lg.rew/ ">Instagram account</a></div>
+        </div>
+        <div class="overlap-4">
+          <div class="info-section">
+            <div class="overlap-3">
+              <div class="info-bottom"></div>
+              <div class="info-2">The link below goes to my discord: </div>
+            </div>
+          </div>
+          <div class="text-wrapper-4"><a href="https://www.discordapp.com/users/xen0xic">Discord</a></div>
+        </div>
+        <div class="overlap-5">
+          <div class="info-section">
+            <div class="overlap-3">
+              <div class="info-bottom"></div>
+              <div class="info-2">I enjoy watching YouTube vidoes, and the link below goes to my favourite content creator. Click the link to find out who it is!</div>
+            </div>
+          </div>
+          <div class="text-wrapper-5"><a href="https://www.youtube.com/@markiplier">YouTube</a></div>
+        </div>
+        <div class="top-bar"></div>
+      </div>
+    </div>
+  </body>
+</html>

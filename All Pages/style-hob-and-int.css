@@ -1,0 +1,266 @@
+.hobbies-and {
+  background-color: #1a4c3c;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.hobbies-and .div {
+  background-color: #1a4c3c;
+  width: 1920px;
+  height: 3000px;
+  position: relative;
+}
+
+.hobbies-and .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  background-color: #0c190e;
+}
+
+.hobbies-and .text-wrapper {
+  position: absolute;
+  width: 1582px;
+  top: 70px;
+  left: 264px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hobbies-and .text-wrapper-2 {
+  position: absolute;
+  width: 190px;
+  top: 98px;
+  left: 61px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hobbies-and .small-transition-bar {
+  position: absolute;
+  width: 1920px;
+  height: 20px;
+  top: 300px;
+  left: 0;
+  background-color: #00261e;
+}
+
+.hobbies-and .top-bar {
+  position: absolute;
+  width: 1920px;
+  height: 300px;
+  top: 2700px;
+  left: 0;
+  background-color: #0c1a0f;
+}
+
+.hobbies-and .text-wrapper-3 {
+  position: absolute;
+  width: 1576px;
+  top: 406px;
+  left: 158px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hobbies-and .table-tennis-section {
+  position: absolute;
+  width: 1582px;
+  height: 421px;
+  top: 2133px;
+  left: 158px;
+}
+
+.hobbies-and .overlap-group {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 0;
+  background-color: #319b79;
+}
+
+.hobbies-and .p {
+  position: absolute;
+  width: 1466px;
+  top: 34px;
+  left: 47px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hobbies-and .text-wrapper-4 {
+  position: absolute;
+  width: 1577px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hobbies-and .guitar-section {
+  position: absolute;
+  width: 1589px;
+  height: 421px;
+  top: 1650px;
+  left: 151px;
+}
+
+.hobbies-and .div-wrapper {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 7px;
+  background-color: #319b79;
+}
+
+.hobbies-and .plants-section {
+  position: absolute;
+  width: 1589px;
+  height: 654px;
+  top: 646px;
+  left: 151px;
+}
+
+.hobbies-and .overlap-2 {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 5px;
+  background-color: #319b79;
+}
+
+.hobbies-and .text-wrapper-5 {
+  position: absolute;
+  width: 1583px;
+  top: 439px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hobbies-and .text-wrapper-6 {
+  position: absolute;
+  width: 1577px;
+  top: 0;
+  left: 6px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.codingExperience {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.hobbies-and .cEb .codingExperience {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  top: 220px;
+  left: 760px;
+}
+
+.hAndIButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.hobbies-and .hIb .hAndIButton {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  top: 220px;
+  left: 460px;
+}
+
+.eduButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.hobbies-and .eduB .eduButton {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  top: 220px;
+  left: 260px;
+}
+
+.mainButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.hobbies-and .mainB .mainButton {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 30px;
+  left: 20px;
+}
+
+.text-wrapper-5 {
+  /* Set the position to relative so that you can use top, right, bottom, left */
+  position: relative;
+}
+
+.text-wrapper-5 img {
+  /* Set the width and height of the images */
+  width: 400px; /* Adjust the width as needed */
+  height: auto; /* Maintain the aspect ratio */
+
+  /* Adjust the position of each image */
+  margin: 0 10px; /* Add margin between images */
+}

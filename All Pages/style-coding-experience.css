@@ -1,0 +1,228 @@
+.coding-experience {
+  background-color: #1a4c3c;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.coding-experience .div {
+  background-color: #1a4c3c;
+  width: 1920px;
+  height: 2500px;
+  position: relative;
+}
+
+.coding-experience .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  background-color: #0c190e;
+}
+
+.coding-experience .text-wrapper {
+  position: absolute;
+  width: 1582px;
+  top: 70px;
+  left: 264px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.coding-experience .text-wrapper-2 {
+  position: absolute;
+  width: 190px;
+  top: 98px;
+  left: 61px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.coding-experience .small-transition-bar {
+  position: absolute;
+  width: 1920px;
+  height: 20px;
+  top: 300px;
+  left: 0;
+  background-color: #00261e;
+}
+
+.coding-experience .top-bar {
+  position: absolute;
+  width: 1920px;
+  height: 294px;
+  top: 2206px;
+  left: 0;
+}
+
+.coding-experience .text-wrapper-3 {
+  position: absolute;
+  width: 1576px;
+  top: 406px;
+  left: 158px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.coding-experience .c-c-sharp-section {
+  position: absolute;
+  width: 1582px;
+  height: 421px;
+  top: 1662px;
+  left: 171px;
+}
+
+.coding-experience .overlap-group {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 0;
+  background-color: #319b79;
+}
+
+.coding-experience .p {
+  position: absolute;
+  width: 1466px;
+  top: 34px;
+  left: 47px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.coding-experience .text-wrapper-4 {
+  position: absolute;
+  width: 1577px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.coding-experience .HTML-and-CSS-section {
+  position: absolute;
+  width: 1589px;
+  height: 421px;
+  top: 1154px;
+  left: 156px;
+}
+
+.coding-experience .div-wrapper {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 7px;
+  background-color: #319b79;
+}
+
+.coding-experience .c-and-c-section {
+  position: absolute;
+  width: 1582px;
+  height: 421px;
+  top: 646px;
+  left: 156px;
+}
+
+.coding-experience .text-wrapper-5 {
+  position: absolute;
+  width: 1577px;
+  top: 0;
+  left: 1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.codingExperience {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.coding-experience .cEb .codingExperience {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  top: 220px;
+  left: 760px;
+}
+
+.hAndIButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.coding-experience .hIb .hAndIButton {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  top: 220px;
+  left: 460px;
+}
+
+.eduButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.coding-experience .eduB .eduButton {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  top: 220px;
+  left: 260px;
+}
+
+.mainButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.coding-experience .mainB .mainButton {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 30px;
+  left: 20px;
+}

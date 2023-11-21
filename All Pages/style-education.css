@@ -1,0 +1,220 @@
+.education-page {
+  background-color: #1a4c3c;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.education-page .div {
+  background-color: #1a4c3c;
+  width: 1920px;
+  height: 2025px;
+  position: relative;
+}
+
+.education-page .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  background-color: #0c190e;
+}
+
+.education-page .text-wrapper {
+  position: absolute;
+  width: 1582px;
+  top: 70px;
+  left: 264px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.education-page .text-wrapper-2 {
+  position: absolute;
+  width: 190px;
+  top: 98px;
+  left: 61px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.education-page .small-transition-bar {
+  position: absolute;
+  width: 1920px;
+  height: 20px;
+  top: 300px;
+  left: 0;
+  background-color: #00261e;
+}
+
+.education-page .top-bar {
+  position: absolute;
+  width: 1920px;
+  height: 300px;
+  top: 1725px;
+  left: 0;
+}
+
+.education-page .text-wrapper-3 {
+  position: absolute;
+  width: 1576px;
+  top: 406px;
+  left: 158px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.education-page .tutoring-section {
+  position: absolute;
+  width: 1589px;
+  height: 421px;
+  top: 1154px;
+  left: 156px;
+}
+
+.education-page .overlap-group {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 7px;
+  background-color: #319b79;
+}
+
+.education-page .p {
+  position: absolute;
+  width: 1466px;
+  top: 34px;
+  left: 47px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.education-page .text-wrapper-4 {
+  position: absolute;
+  width: 1577px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.education-page .SFU-section {
+  position: absolute;
+  width: 1582px;
+  height: 421px;
+  top: 646px;
+  left: 156px;
+}
+
+.education-page .div-wrapper {
+  position: absolute;
+  width: 1578px;
+  height: 320px;
+  top: 101px;
+  left: 0;
+  background-color: #319b79;
+}
+
+.education-page .text-wrapper-5 {
+  position: absolute;
+  width: 1577px;
+  top: 0;
+  left: 1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.codingExperience {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.education-page .cEb .codingExperience {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  top: 220px;
+  left: 760px;
+}
+
+.hAndIButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.education-page .hIb .hAndIButton {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  top: 220px;
+  left: 460px;
+}
+
+.eduButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.education-page .eduB .eduButton {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  top: 220px;
+  left: 260px;
+}
+
+.mainButton {
+  background-color: #0c1a0f;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.education-page .mainB .mainButton {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 30px;
+  left: 20px;
+}
