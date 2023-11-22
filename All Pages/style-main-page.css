@@ -1,4 +1,4 @@
-.main-page {
+.index {
   background-color: #1a4c3c;
   display: flex;
   flex-direction: row;
@@ -6,14 +6,14 @@
   width: 100%;
 }
 
-.main-page .div {
+.index .div {
   background-color: #1a4c3c;
   width: 1920px;
   height: 2000px;
   position: relative;
 }
 
-.main-page .overlap {
+.index .overlap {
   position: absolute;
   width: 1920px;
   height: 300px;
@@ -22,7 +22,7 @@
   background-color: #0c190e;
 }
 
-.main-page .text-wrapper {
+.index .text-wrapper {
   position: absolute;
   width: 1601px;
   top: 240px;
@@ -35,7 +35,7 @@
   line-height: normal;
 }
 
-.main-page .text-wrapper-2 {
+.index .text-wrapper-2 {
   position: absolute;
   width: 190px;
   top: 98px;
@@ -48,7 +48,7 @@
   line-height: normal;
 }
 
-.main-page .small-transition-bar {
+.index .small-transition-bar {
   position: absolute;
   width: 1920px;
   height: 20px;
@@ -57,7 +57,7 @@
   background-color: #00261e;
 }
 
-.main-page .bio-overview-stuff {
+.index .bio-overview-stuff {
   position: absolute;
   width: 1347px;
   height: 320px;
@@ -65,7 +65,7 @@
   left: 156px;
 }
 
-.main-page .overlap-group {
+.index .overlap-group {
   position: absolute;
   width: 1179px;
   height: 320px;
@@ -75,7 +75,7 @@
   box-shadow: 0px 4px 4px #00000040;
 }
 
-.main-page .bioBox {
+.index .bioBox {
   position: absolute;
   width: 1095px;
   top: 34px;
@@ -88,7 +88,7 @@
   line-height: 1.5;
 }
 
-.main-page .button-to-swap {
+.index .button-to-swap {
   position: absolute;
   width: 49px;
   height: 90px;
@@ -96,7 +96,7 @@
   left: 1299px;
 }
 
-.main-page .overlap-2 {
+.index .overlap-2 {
   position: absolute;
   width: 402px;
   height: 600px;
@@ -104,7 +104,7 @@
   left: 156px;
 }
 
-.main-page .info-section {
+.index .info-section {
   position: absolute;
   width: 402px;
   height: 600px;
@@ -112,7 +112,7 @@
   left: 0;
 }
 
-.main-page .overlap-3 {
+.index .overlap-3 {
   position: relative;
   width: 400px;
   height: 600px;
@@ -120,7 +120,7 @@
   box-shadow: 0px 4px 4px #00000040;
 }
 
-.main-page .info-bottom {
+.index .info-bottom {
   position: absolute;
   width: 400px;
   height: 100px;
@@ -129,7 +129,7 @@
   background-color: #0c1a0f;
 }
 
-.main-page .info {
+.index .info {
   position: absolute;
   width: 324px;
   top: 38px;
@@ -142,7 +142,7 @@
   line-height: 2;
 }
 
-.main-page .text-wrapper-3 {
+.index .text-wrapper-3 {
   width: 371px;
   top: 518px;
   left: 13px;
@@ -155,7 +155,7 @@
   line-height: normal;
 }
 
-.main-page .overlap-4 {
+.index .overlap-4 {
   position: absolute;
   width: 402px;
   height: 600px;
@@ -163,7 +163,7 @@
   left: 745px;
 }
 
-.main-page .info-2 {
+.index .info-2 {
   position: absolute;
   width: 324px;
   top: 38px;
@@ -176,7 +176,7 @@
   line-height: 2;
 }
 
-.main-page .text-wrapper-4 {
+.index .text-wrapper-4 {
   position: absolute;
   width: 366px;
   top: 512px;
@@ -189,7 +189,7 @@
   line-height: normal;
 }
 
-.main-page .overlap-5 {
+.index .overlap-5 {
   position: absolute;
   width: 402px;
   height: 600px;
@@ -197,7 +197,7 @@
   left: 1334px;
 }
 
-.main-page .text-wrapper-5 {
+.index .text-wrapper-5 {
   width: 374px;
   top: 512px;
   left: 12px;
@@ -210,7 +210,7 @@
   line-height: normal;
 }
 
-.main-page .top-bar {
+.index .top-bar {
   position: absolute;
   width: 1920px;
   height: 300px;
@@ -228,7 +228,7 @@
   cursor: pointer;
 }
 
-.main-page .cEb .codingExperience {
+.index .cEb .codingExperience {
   position: absolute;
   width: 300px;
   height: 80px;
@@ -245,7 +245,7 @@
   cursor: pointer;
 }
 
-.main-page .hIb .hAndIButton {
+.index .hIb .hAndIButton {
   position: absolute;
   width: 300px;
   height: 80px;
@@ -262,7 +262,7 @@
   cursor: pointer;
 }
 
-.main-page .eduB .eduButton {
+.index .eduB .eduButton {
   position: absolute;
   width: 200px;
   height: 80px;
@@ -279,7 +279,7 @@
   cursor: pointer;
 }
 
-.main-page .mainB .mainButton {
+.index .mainB .mainButton {
   position: absolute;
   width: 30px;
   height: 30px;
