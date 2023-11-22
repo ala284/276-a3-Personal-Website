@@ -6,7 +6,7 @@ given that they provide attribution back to the author (me) and do not hold the 
 
 Follow Up Questions:
 
-1. Link to website
+1. Link to website[https://ala284.github.io/276-a3-Personal-Website/]
 
 2. My website is a personal website that contains a bunch of information about me. My favicon is located on the top left corner of each webpage.
 The buttons on the top allow you to navigate to different parts of the website, and clicking the favicon navigates you back to the main page.
